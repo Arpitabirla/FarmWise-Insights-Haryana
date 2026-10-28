@@ -1,0 +1,5 @@
+Farmer_Query,Crop,Intent,Language,Safe_Response_Note
+Meri gehun ki fasal ke patte peele ho rahe hain,Wheat,Leaf yellowing,Hindi,Check irrigation/nutrient context; consult local agriculture officer
+Rice crop mein paani kitna dena chahiye?,Rice,Irrigation,Hindi,"Advice depends on growth stage, soil and local water guidance"
+Mustard ke patton par daag hain,Mustard,Possible disease symptom,Hindi,Upload a clear image and seek verified diagnosis
+Cotton mein keede dikh rahe hain,Cotton,Pest concern,Hindi,Identify pest before selecting any treatment
