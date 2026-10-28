@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FarmWise Insights Haryana
 **Agriculture Data Analytics starter project — SQL Server + Python + Power BI**
 
@@ -69,3 +70,7 @@ Bottom: yield comparison, rainfall-vs-yield scatter, detailed data table
 - NLP: classify farmer queries by crop, symptom, intent and language. Use real, permissioned/verified query data; the sample CSV is only illustrative.
 - Deep Learning: train a CNN using a properly labeled crop-leaf image dataset for disease classification. Evaluate on held-out images and show uncertainty; do not treat predictions as a definitive diagnosis.
 - Integrate the modules into the same web app only after the analytics dashboard works.
+=======
+# FarmWise-Insights-Haryana
+An interactive agricultural analytics dashboard for crop production, district performance, and farmer support in Haryana.
+>>>>>>> 3393c89a7d84da8a63fa87e4186dc7e0981840e3
